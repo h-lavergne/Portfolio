@@ -106,7 +106,7 @@
 
                 <img src="{{ asset('images/profile-pic.jpg') }}" alt="Profile Picture">
 
-                <p class="lead">Hello, my name is Hugo Lavergne. I’m a web developement student and freelancer in web development as well. I deal mostly with the back end of websites.</p>
+                <p class="lead">Hello, my name is Hugo Lavergne. I’m a web developement student and freelancer in web development. I deal mostly with the backend of websites.</p>
             </div>
 
         </div>
@@ -117,7 +117,7 @@
         <div class="col-six tab-full">
 
             <h3>Profile</h3>
-            <p>Curious, passionate, and determined</p>
+            <p>Curious, passionate, and determined, i want to keep learning and improving my skills</p>
 
             <ul class="info-list">
                 <li>
@@ -462,7 +462,7 @@
 
                     <div class="description-box">
                         <h4>Notify</h4>
-                        <p>Developement of an website with his email notifications</p>
+                        <p>Development of an website with his email notifications</p>
 
                         <div class="categories">Web Design and emailing</div>
                     </div>
@@ -483,7 +483,7 @@
                         <h4>Grizzly</h4>
                         <p>E-shopping website of iphone case for special event</p>
 
-                        <div class="categories">E-shopping website developement</div>
+                        <div class="categories">E-shopping website development</div>
                     </div>
 
                     <div class="link-box">
@@ -500,7 +500,7 @@
 
                     <div class="description-box">
                         <h4>Social media certif</h4>
-                        <p>Developement of a E-learning platform to get a social media management certificate</p>
+                        <p>Development of a E-learning platform to get a social media management certificate</p>
 
                         <div class="categories">Branding</div>
                     </div>
@@ -519,7 +519,7 @@
 
                     <div class="description-box">
                         <h4>Lighthouse</h4>
-                        <p>Creation of a blog with angular 7 and firebase</p>
+                        <p>Creation of a blog with angular 7 and Firebase</p>
 
                         <div class="categories">Web Development</div>
                     </div>
