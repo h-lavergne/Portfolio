@@ -17,3 +17,5 @@ Route::get('/', function () {
 
 
 Route::post('/', 'ContactFormController@store')->name('contact.store');
+
+Route::get('/', 'HomeController@index')->name('home');
